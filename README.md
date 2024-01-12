@@ -4,4 +4,4 @@ Program and output listed in this repository mainly utilizes Indonesian language
 🚩 Project Name: Supermart Grocery Sales Analytical Recommendation  
 🙋🏻‍♂️ Project Owner: Nicku R. Perdana  
 🏁 Date Finished: Jan 11, 2023  
-📞 Contact: [LinkedIn](https://www.linkedin.com/in/nickurendyperdana/)
+📞 Contact: ▶ [LinkedIn](https://www.linkedin.com/in/nickurendyperdana/) ▶ [nicku.r.perdana@gmail.com](mailto:nicku.r.perdana@gmail.com)
